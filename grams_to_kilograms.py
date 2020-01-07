@@ -1,5 +1,5 @@
 grams = 1500
 
-kilo_grams = grams / 1000
+kilo_grams = grams / 1000.0
 
-print('{} grams = {}'.format(grams, kilo_grams))
+print('{} grams = {} kilograms'.format(grams, kilo_grams))
