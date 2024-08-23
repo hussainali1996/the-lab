@@ -2,7 +2,7 @@ import os
 import sys
 import glob
 
-file_directory = "/Users/hussain.ali/Desktop/Python projects/weatherdata/"
+file_directory = "/Users/hussain.ali/Desktop/Python-projects/the-lab/weatherdata/"
 
 class FileParser:
     
